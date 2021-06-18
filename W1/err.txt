@@ -1,0 +1,7 @@
+helloWorld.c: In function 'main':
+helloWorld.c:5:30: error: expected ';' before 'return'
+     printf("Hello, World \n")
+                              ^
+                              ;
+     return 0;
+     ~~~~~~                    

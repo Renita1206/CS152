@@ -1,0 +1,24 @@
+command > textfilename.txt # to redirect output
+command >> text.txt # to redirect and append to text.txt
+
+ Volume in drive C is OS
+ Volume Serial Number is 2040-008E
+
+ Directory of C:\Users\Renita Kurian\Documents\Academic\Second Semester\C Lab
+
+06/05/2021  14:17    <DIR>          .
+06/05/2021  14:17    <DIR>          ..
+06/05/2021  14:17                 0 output.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  222,388,416,512 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is 2040-008E
+
+ Directory of C:\Users\Renita Kurian\Documents\Academic\Second Semester\C Lab
+
+06/05/2021  14:17    <DIR>          .
+06/05/2021  14:17    <DIR>          ..
+06/05/2021  14:18               423 output.txt
+               1 File(s)            423 bytes
+               2 Dir(s)  222,760,177,664 bytes free
+
