@@ -1,3 +1,5 @@
+//Replace character in string with given character
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,4 @@
+//Remove repeated characters
 #include <stdio.h>
 #include <string.h>
 
