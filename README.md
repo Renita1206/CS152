@@ -1,5 +1,6 @@
 # CS152
-Second Semester lab programs
+Second Semester lab programs  
+Problem Solving with C
 
 Week 1: File Redirection and gcc compiler options  
 Week 2: Input, Output Functions And Control Structures  
